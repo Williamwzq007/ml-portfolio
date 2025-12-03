@@ -1,7 +1,7 @@
 # ml-portfolio
 # ML Portfolio
 
-Hi! I'm William, a Mathematics undergraduate at Imperial College London.
+Hi! I'm Ziqian Wang, a Mathematics undergraduate at Imperial College London.
 
 This repository collects my machine learning projects and experiments.  
 I'm particularly interested in:
@@ -12,7 +12,7 @@ I'm particularly interested in:
 
 ## Projects
 
-- (coming soon) Logistic regression from scratch with gradient descent
+- Logistic regression from scratch with gradient descent
 - (coming soon) MNIST classification with PyTorch
 - (coming soon) Optimisation experiments (GD vs SGD vs Adam)
 
