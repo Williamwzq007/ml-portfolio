@@ -20,11 +20,8 @@ A minimal binary classifier implemented **from first principles**:
 - implement gradient descent (and variants) without high-level ML libraries;
 - visualise the decision boundary and the effect of learning rate / iterations.
 
-This project is mainly about understanding logistic regression as
-
-\[
-\text{a parametric probabilistic model trained by gradient-based optimisation}.
-\]
+This project is mainly about understanding logistic regression
+as a parametric probabilistic model trained by gradient-based optimisation.
 
 ---
 
