@@ -13,7 +13,7 @@ I'm particularly interested in:
 ## Projects
 
 - Logistic regression from scratch with gradient descent
-- (coming soon) MNIST classification with PyTorch
+- MNIST classification with PyTorch
 - (coming soon) Optimisation experiments (GD vs SGD vs Adam)
 
 More projects will be added over time.
