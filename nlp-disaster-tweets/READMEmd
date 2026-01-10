@@ -1,0 +1,20 @@
+## NLP Disaster Tweets Classification
+
+This project studies binary text classification on short social media messages
+related to disaster events.
+
+### Methods
+- Baseline model: TF-IDF + Logistic Regression
+- Transformer model: DistilBERT fine-tuning using Hugging Face Transformers
+
+### Highlights
+- Built an end-to-end NLP pipeline from preprocessing to Kaggle submission
+- Compared classical machine learning methods with transformer-based models
+- Implemented training, validation (F1 score), and inference in a reproducible setup
+
+### Tools
+Python, PyTorch, Hugging Face Transformers, scikit-learn
+
+### Notes
+This project is adapted from a Kaggle dataset but focuses on model comparison
+and pipeline design rather than leaderboard optimization.
