@@ -2,11 +2,11 @@
 
 ## ML Portfolio
 
-Hi! I'm Ziqian Wang, a Mathematics undergraduate at Imperial College London.
+Hi! I'm Ziqian (William) Wang, a Mathematics undergraduate at Imperial College London, interested in Deep Learning, Natural Language Processing and Large Language Models.
 
-This repository collects my machine learning projects and small experiments.  
-A recurring theme is to **connect implementation with the underlying mathematics**  
-(linear algebra, optimisation, and probability).
+
+This repository, maintained actively and updated regularly, serves as a living record of my machine learning projects and recent progress.
+I started from the basics and continue to learn by building and extending models through hands-on experimentation, with new projects added as my interests and understanding evolve.
 
 ---
 
@@ -40,6 +40,20 @@ The notebook includes **lecture-style notes** linking the code to:
 - basic optimisation considerations (normalisation, conditioning, choice of optimiser).
 
 ---
+### 3. NLP disaster tweets classification (TF-IDF + Transformers)
+
+Binary text classification on short social media messages related to disaster events:
+
+- establish a classical baseline using TF-IDF features with logistic regression;
+- fine-tune a transformer-based model (DistilBERT) using the Hugging Face Trainer API;
+- compare traditional linear models with contextualised language representations.
+
+The project focuses on building an end-to-end NLP pipeline, including text preprocessing,
+model training, validation using F1 score, and reproducible inference for submission.
+
+Rather than leaderboard optimisation, the emphasis is on understanding the modelling choices
+and trade-offs between classical machine learning approaches and modern transformer architectures.
+
 
 ## Next steps
 
